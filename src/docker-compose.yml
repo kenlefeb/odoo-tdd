@@ -1,6 +1,6 @@
 version: '2'
 services:
-  web:
+  odoo:
     image: odoo:latest
     depends_on:
       - db
