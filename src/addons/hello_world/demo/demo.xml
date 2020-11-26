@@ -1,0 +1,34 @@
+<odoo>
+    <data>
+
+          <record id="object0" model="hello_world.hello_world">
+            <field name="name">Object 0</field>
+            <field name="value">0</field>
+          </record>
+
+          <record id="object1" model="hello_world.hello_world">
+            <field name="name">Object 1</field>
+            <field name="value">10</field>
+          </record>
+
+          <record id="object2" model="hello_world.hello_world">
+            <field name="name">Object 2</field>
+            <field name="value">20</field>
+          </record>
+
+          <record id="object3" model="hello_world.hello_world">
+            <field name="name">Object 3</field>
+            <field name="value">30</field>
+          </record>
+
+          <record id="object4" model="hello_world.hello_world">
+            <field name="name">Object 4</field>
+            <field name="value">40</field>
+          </record>
+
+          <record id="glucose-01" model="hello_world.glucose_measurement">
+            <field name="timestamp">2020-11-26T17:58:00-05:00</field>
+            <field name="glucose">89</field>
+          </record>
+    </data>
+</odoo>
